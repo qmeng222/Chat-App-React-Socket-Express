@@ -7,7 +7,11 @@ export class App extends Component {
   }
 
   render() {
-    return <div></div>;
+    return (
+      <div>
+        <h1>This is client site.</h1>
+      </div>
+    );
   }
 }
 
